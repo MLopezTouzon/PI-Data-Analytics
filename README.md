@@ -15,6 +15,7 @@ Dashboard Interactivo
 El dashboard interactivo se realizo en Power BI. Puede accederse [aquí](link al dashboard), y se ha diseñado para permitir una exploración detallada de los datos, con filtros y gráficos interactivos.
 
 Análisis y Conclusiones
+
 El primer análisis se enfocó en la distribución anual de víctimas en los siniestros. Se observó una tendencia descendente a partir de 2018, con un mínimo notable en 2020 debido a la estricta cuarentena implementada como medida preventiva por el COVID-19. Sin embargo, al examinar la distribución mensual de ese año, se evidenció un aumento significativo a partir de Diciembre. Esto se debió a una flexibilización de las restricciones debido a las festividades.
 
 Posteriormente, se evaluó la distribución de víctimas según los días de la semana. Se identificó que los Lunes y Sábados presentaban los valores más altos. Esta tendencia es comprensible: los Lunes marcan el inicio de la semana laboral, generando mayor tráfico debido a los desplazamientos laborales. Los Sábados, por otro lado, son el comienzo del fin de semana, momento en el cual las personas salen para reunirse con amigos o familiares, lo que también aumenta la movilidad y, en consecuencia, el tráfico.
@@ -37,7 +38,6 @@ Se ha determinado la urgente necesidad de tomar medidas inmediatas en los contro
 Se observó que en las avenidas representa un porcentaje significativamente alto de ocurrencia de los siniestros en comparación con otros tipos de calles.
 
 KPIs
-Tasa de Homicidios en Siniestros Viales
 
 Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses en CABA, en comparación con el semestre anterior.
 Fórmula: (Número de homicidios en siniestros viales / Población total) * 100,000
@@ -54,6 +54,7 @@ Interpretación: Cuanto menor sea el número de infracciones detectadas por cada
 Este KPI proporcionaría una perspectiva adicional sobre la seguridad vial en la ciudad, considerando no solo la cantidad de accidentes y víctimas, sino también el comportamiento general de los conductores en relación con las normas de tránsito. Puedes representar gráficamente este KPI junto con los otros dos para obtener una visión más completa y equilibrada de la seguridad vial en CABA.
 
 Contacto
+
 Si tiene alguna pregunta o desea obtener más información, no dude en ponerse en contacto con nosotros.
 
 ¡Gracias por contribuir a la seguridad vial en CABA!
