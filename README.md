@@ -3,10 +3,11 @@ Descripción
 Este proyecto tiene como objetivo realizar un análisis de datos sobre la seguridad vial en la Ciudad Autónoma de Buenos Aires (CABA). Utilizaremos datos proporcionados por el Observatorio de Movilidad y Seguridad Vial para entender los patrones de accidentes de tránsito y proponer medidas para reducir la cantidad de víctimas fatales.
 
 Estructura del Repositorio
-data/: Contiene el conjunto de datos en formato xlsx.
-notebooks/: Contiene los Jupyter Notebooks con el análisis exploratorio de datos.
-dashboards/: Contiene archivos relacionados con la creación y configuración del dashboard.
-docs/: Documentación adicional, si es necesario.
+
+Data Sets/: Contiene el conjunto de datos en formato xlsx.
+EDA.ipynb: Jupyter Notebooks con el análisis exploratorio de datos.
+dashboards/: Contiene imagen del dashboard.
+
 Análisis Exploratorio de Datos (EDA)
 El análisis exploratorio de datos se encuentra en el notebook EDA.ipynb. Aquí se detallan los pasos realizados, se exploran valores faltantes, outliers y se presentan gráficos informativos para entender la distribución de los datos.
 
