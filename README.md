@@ -15,7 +15,26 @@ Dashboard Interactivo
 El dashboard interactivo se realizo en Power BI. Puede accederse [aquí](link al dashboard), y se ha diseñado para permitir una exploración detallada de los datos, con filtros y gráficos interactivos.
 
 Análisis y Conclusiones
-En el notebook Análisis_y_Conclusiones.ipynb, presentamos un análisis más profundo de los datos y las conclusiones extraídas del dashboard. Aquí se encuentran los resultados de nuestros esfuerzos por comprender y mejorar la seguridad vial.
+El primer análisis se enfocó en la distribución anual de víctimas en los siniestros. Se observó una tendencia descendente a partir de 2018, con un mínimo notable en 2020 debido a la estricta cuarentena implementada como medida preventiva por el COVID-19. Sin embargo, al examinar la distribución mensual de ese año, se evidenció un aumento significativo a partir de Diciembre. Esto se debió a una flexibilización de las restricciones debido a las festividades.
+
+Posteriormente, se evaluó la distribución de víctimas según los días de la semana. Se identificó que los Lunes y Sábados presentaban los valores más altos. Esta tendencia es comprensible: los Lunes marcan el inicio de la semana laboral, generando mayor tráfico debido a los desplazamientos laborales. Los Sábados, por otro lado, son el comienzo del fin de semana, momento en el cual las personas salen para reunirse con amigos o familiares, lo que también aumenta la movilidad y, en consecuencia, el tráfico.
+
+Asimismo, se analizó la distribución horaria de los siniestros. Se notó un aumento significativo entre las 5 y las 7 de la tarde. Durante la semana, este incremento se vincula con el horario de ingreso laboral, mientras que los fines de semana, está relacionado con la salida de boliches y fiestas, aumentando las posibilidades de siniestros debido a la presencia de conductores y/o personas en estado de embriaguez.
+
+En cuanto a las victimas de los siniestros, se identificó que las Motos, Peatones y Autos eran los principales protagonistas, destacándose por su incidencia en las Avenidas, Autopistas y General Paz, y en las Calles las mayores victimas son Peatones. Al analizar los tipos de víctimas, se encontró que las Motos y los Peatones eran los más afectados. Las Motos, debido a su vulnerabilidad en la carretera, y los Peatones, posiblemente debido al comportamiento imprudente de algunos conductores.
+
+Conclusiones
+
+Basándonos en las observaciones y datos analizados sobre los accidentes de tráfico, se pueden derivar conclusiones significativas. Estas conclusiones ofrecen una comprensión completa de la situación y podrían desempeñar un papel crucial en la toma de decisiones y la creación de políticas destinadas a mejorar la seguridad vial en la Ciudad Autónoma de Buenos Aires.
+
+Se registraron 714 víctimas fatales entre los años 2016 a 2021. Con una tendencia descendente apartir del 2019 con pico mínimo en el 2020.
+Diciembre es el mes con mayor cantidad de víctimas, lo cual tiene sentido debido a las festividades.
+Se registran una mayor cantidad de víctimas en los días Lunes y Sabado.
+El horario crítico de los siniestros es entre las 5AM y las 7AM.
+Las principales víctimas de siniestros son motociclistas y peatones.
+La mayor cantidad de siniestros ocurren en la comuna 1.
+Se ha determinado la urgente necesidad de tomar medidas inmediatas en los controles y regulaciones de las avenidas, dado que estas vías representan un mayor número de víctimas en comparación con otros tipos de calles.
+Se observó que en las avenidas representa un porcentaje significativamente alto de ocurrencia de los siniestros en comparación con otros tipos de calles.
 
 KPIs
 Tasa de Homicidios en Siniestros Viales
