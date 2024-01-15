@@ -1,5 +1,7 @@
 Proyecto de Análisis de Datos - Seguridad Vial en CABA
+
 Descripción
+
 Este proyecto tiene como objetivo realizar un análisis de datos sobre la seguridad vial en la Ciudad Autónoma de Buenos Aires (CABA). Utilizaremos datos proporcionados por el Observatorio de Movilidad y Seguridad Vial para entender los patrones de accidentes de tránsito y proponer medidas para reducir la cantidad de víctimas fatales.
 
 Estructura del Repositorio
