@@ -29,12 +29,19 @@ Conclusiones
 Basándonos en las observaciones y datos analizados sobre los accidentes de tráfico, se pueden derivar conclusiones significativas. Estas conclusiones ofrecen una comprensión completa de la situación y podrían desempeñar un papel crucial en la toma de decisiones y la creación de políticas destinadas a mejorar la seguridad vial en la Ciudad Autónoma de Buenos Aires.
 
 Se registraron 714 víctimas fatales entre los años 2016 a 2021. Con una tendencia descendente apartir del 2019 con pico mínimo en el 2020.
+
 Diciembre es el mes con mayor cantidad de víctimas, lo cual tiene sentido debido a las festividades.
+
 Se registran una mayor cantidad de víctimas en los días Lunes y Sabado.
+
 El horario crítico de los siniestros es entre las 5AM y las 7AM.
+
 Las principales víctimas de siniestros son motociclistas y peatones.
+
 La mayor cantidad de siniestros ocurren en la comuna 1.
+
 Se ha determinado la urgente necesidad de tomar medidas inmediatas en los controles y regulaciones de las avenidas, dado que estas vías representan un mayor número de víctimas en comparación con otros tipos de calles.
+
 Se observó que en las avenidas representa un porcentaje significativamente alto de ocurrencia de los siniestros en comparación con otros tipos de calles.
 
 KPIs
