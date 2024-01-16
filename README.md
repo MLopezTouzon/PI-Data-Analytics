@@ -46,6 +46,18 @@ Se ha determinado la urgente necesidad de tomar medidas inmediatas en los contro
 
 Se observó que en las avenidas representa un porcentaje significativamente alto de ocurrencia de los siniestros en comparación con otros tipos de calles.
 
+Acciones sugeridas:
+
+1.	Controles y Regulaciones en Avenidas:
+•	Implementar medidas urgentes en controles y regulaciones en avenidas.
+•	Establecer programas de concientización para conductores y peatones en estas vías.
+2.	Seguridad de Motociclistas:
+•	Desarrollar campañas de seguridad específicas para motociclistas.
+•	Reforzar controles y sanciones para conductores irresponsables de motocicletas.
+3.	Prevención en Horarios Críticos:
+•	Reforzar patrullajes y controles durante los horarios críticos.
+•	Implementar estrategias de prevención y concientización en la comunidad.
+
 KPIs
 
 Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses en CABA, en comparación con el semestre anterior.
